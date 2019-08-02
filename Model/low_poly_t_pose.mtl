@@ -1,0 +1,20 @@
+newmtl espada_low:defaultMat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka defaultMat_Base_Color.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks defaultMat_Metallic.png
+Ns 100.00
+newmtl human_skeleton:default1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Ka human_skeleton_albedo_srgb.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks human_skeleton_glossiness_linear.jpg
+Ns 100.00
